@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: me.tatarka.bindingcollectionadapter2:bindingcollectionadapter-2.2.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../AndroidStudio/caches/transforms-1/files-1.1/bindingcollectionadapter-2.2.0.aar/c82c5154e128fd1a68b7f93b5e9e6eea/res" />
+      <root url="jar://$PROJECT_DIR$/../../../AndroidStudio/caches/transforms-1/files-1.1/bindingcollectionadapter-2.2.0.aar/c82c5154e128fd1a68b7f93b5e9e6eea/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../AndroidStudio/caches/modules-2/files-2.1/me.tatarka.bindingcollectionadapter2/bindingcollectionadapter/2.2.0/6eba694feee74636da05fa3aaa4284335606810c/bindingcollectionadapter-2.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
